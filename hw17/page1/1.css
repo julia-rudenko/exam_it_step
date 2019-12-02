@@ -1,0 +1,148 @@
+body {
+	width: 100%;
+	overflow-x: hidden;
+} 
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      height: 70px;
+}
+.navbar-inverse {
+	background-color: #1D59D0;
+}
+
+.row.content {
+	height: 580px
+}
+
+.sidenav {
+  padding-top: 20px;
+
+  height: 100%;
+}
+
+footer {
+	height: 40px;
+  	color: white;
+  	padding-left: 0;
+}
+.navbar-brand {
+	margin-right: 20px;
+}
+#stn {
+	font-size: 20px;
+}
+.navbar-toggle {
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+@media screen and (max-width: 767px) {
+.sidenav {
+  height: auto;
+  padding: 15px;
+}
+.row.content {height:auto;} 
+}
+#pic1 {
+	width: 40px;
+	background-color: #1D59D0;
+}
+#ava {
+	padding-left: 65vw;
+}
+.newspics {
+	width: 80px;
+	float: left;
+	padding-bottom: 10px;
+	margin-right: 10px;
+}
+.ftr {
+	display: inline;
+	border-radius: 4px;
+	border-color: transparent;
+}
+#ftrleft {
+	float: left;
+	width: 700px;
+	margin-left: 35px;
+	background-color: grey;
+	height: 40px;
+	color: white;
+}
+#ftrright {
+	float: left;
+	width: 700px;
+	margin-left: 70px;
+	background-color: white;
+	height: 40px;
+
+}
+.container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+}
+.news {
+	border: 1px solid black;
+	height: 150px;
+	width: 700px;
+	margin-left: 35px;
+	text-align: left!important;
+	padding: 12px;
+
+}
+#firstnews {
+	border-radius: 4px 4px 0 0;
+}
+#lastnews {
+	border-radius: 0 0 4px 4px;
+}
+
+.headertext {
+	float: left;
+}
+.data {
+	text-align: right;
+}
+#rewards {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#newsheader {
+	padding-bottom: 20px;
+}
+.rewardsleft {
+	float: left;
+	height: 30px;
+}
+.classattended {
+	border: 1px solid grey;
+	border-radius: 3px;
+	padding: 5px;
+	padding-top: 0;
+}
+.plusone {
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.rew {
+	height: 30px;
+	margin-left: 30%;
+	vertical-align: middle;
+}
+.dataleft {
+	width: 80px;
+	height: 30px;
+	border: 1px solid grey;
+	border-radius: 3px;
+}
+.badges {
+	margin-right: 20px;
+}
+#home {
+	color: #A6BAE6;
+}

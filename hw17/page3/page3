@@ -1,0 +1,6 @@
+.container {
+  margin-bottom: 30px;
+}
+#header_homework {
+  font-size: 34px;
+}
